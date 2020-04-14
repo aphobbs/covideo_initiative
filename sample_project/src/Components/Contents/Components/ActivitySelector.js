@@ -13,22 +13,27 @@ const cards = [
     {
         url: 'https://images.unsplash.com/photo-1519139270028-ab664cf42264?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
         title: 'Art/Music',
+        content: 'Take an art class or a music class from talented artists and musicians. Learn from them and unleash your creative side!
     },
     {
         url: 'https://images.unsplash.com/photo-1525296416200-59aaed194d0c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1474&q=80',
         title: 'Dance',
+        content: 'Take a dance class or simply learn to move to music. Dance is therapy for mind and body.
     },
     {
         url: 'https://images.unsplash.com/photo-1531482615713-2afd69097998?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
         title: 'Learn',
+        content: 'Learn about any topic on offer that interests you. Talk with an expert!
     },
     {
         url: 'https://images.unsplash.com/photo-1548964643-412886f1e3f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1422&q=80',
         title: 'Chat',
+        content: 'Chat and share a story or two, maybe even make a new friend.
     },
     {
         url: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80',
         title: 'Fitness',
+        content: 'Keep in shape with fitness gurus who will get your blood pumping!
     },
 ];
 
