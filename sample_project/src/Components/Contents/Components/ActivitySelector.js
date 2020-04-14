@@ -85,7 +85,7 @@ export default function _() {
                                 {card.title}
               </Typography>
                                 <Typography>
-                                    This is a media card. You can use this section to describe the content.
+                                    {card.content}
               </Typography>
                             </CardContent>
                             <CardActions>
