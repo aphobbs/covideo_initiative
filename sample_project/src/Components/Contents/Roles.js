@@ -21,7 +21,7 @@ export default function _() {
               What is your role?
             </Typography>
             <Typography variant="h5" align="center" color="textSecondary" paragraph>
-              Select you role
+              Select your role
             </Typography>
             <RoleSelector />
           </Container>
